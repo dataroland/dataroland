@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analytics / Science Portfolio:</h2>
 
 - <b>Train Delays Analysis for selected lines</b>
-  - [Train Delays Analysis](https://github.com/dataroland/Train-Delays-Analysis)
+  - [Train Delays Analysis](https://github.com/dataroland/Train_Delays_Analysis)
 - <b>Weather Forecast Accuracy Comparision for selected weather forecasters</b>
   - [Weather Forecast Accuracy Comparision](https://github.com/dataroland/Weather-Forecast-Accuracy-Comparision) <b>
 
