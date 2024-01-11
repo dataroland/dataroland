@@ -23,6 +23,5 @@
 
 [linkedin]: https://linkedin.com/in/roland-kiss-498b0860
 
-[dataroland.com]: https://dataroland.com
 
 <!--
