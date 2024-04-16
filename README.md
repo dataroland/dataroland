@@ -5,7 +5,7 @@
 - <b>Train Delays Analysis for selected lines</b>
   - [Train Delays Analysis](https://github.com/dataroland/Train_Delays_Analysis)
 - <b>Weather Forecast Accuracy Comparison for selected weather forecasters</b>
-  - [Weather Forecast Accuracy Comparison](https://github.com/dataroland/Weather_Forecast_Accuracy_Comparision) <b>
+  - [Weather Forecast Accuracy Comparison](https://github.com/dataroland/Weather_Forecast_Accuracy_Comparison) <b>
 
 <h2>📄 Certifications:</h2>
 
